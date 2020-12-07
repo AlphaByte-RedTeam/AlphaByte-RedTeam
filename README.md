@@ -1,8 +1,5 @@
 ### Hello World! I'm Andrew Virya Victorio - aka [avee_nain][instagram] 😎🤙
 
-<!--
-**aveenain/aveenain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <br />
 
 ## No Guts, No Glory!
@@ -59,3 +56,6 @@
 [twitter]: https://twitter.com/avee_nain
 [instagram]: https://www.instagram.com/avee_nain/
 [facebook]: https://www.facebook.com/aveenain/
+
+<!--
+**aveenain/aveenain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
