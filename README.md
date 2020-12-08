@@ -31,7 +31,7 @@
 [<img align="left" alt="HTML Language" width="48px" src="https://img.icons8.com/color/48/000000/html-5.png"/>][instagram]
 [<img align="left" alt="Asemmbly Language" width="48px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"/>][instagram]
 [<img align="left" alt="Linux OS" width="48px" src="https://img.icons8.com/color/48/000000/linux.png"/>][instagram]
-[<img align="left" alt="MacOS" width="48px" src="https://img.icons8.com/metro/26/000000/mac-os.png"/>][instagram]
+[<img align="left" alt="Apple OS" width="48px" src="https://img.icons8.com/ios-filled/48/000000/mac-os.png"/>][instagram]
 [<img align="left" alt="Windows 10 OS" width="48px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>][instagram]
 [<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/100/000000/git.png"/>][instagram]
 [<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>][instagram]
