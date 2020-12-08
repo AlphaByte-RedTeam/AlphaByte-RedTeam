@@ -17,7 +17,7 @@
 [<img align="left" alt="Instagram Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Twitter Icon" width="48px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
-[<img align="left" alt="Twitter Icon" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v2.png"/>][telegram]
+[<img align="left" alt="Twitter Icon" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telegram]
 
 <br />
 <br />
