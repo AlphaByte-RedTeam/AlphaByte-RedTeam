@@ -17,6 +17,7 @@
 [<img align="left" alt="Instagram Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" alt="Twitter Icon" width="48px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
+[<img align="left" alt="Twitter Icon" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v2.png"/>][telegram]
 
 <br />
 <br />
@@ -58,6 +59,7 @@
 [twitter]: https://twitter.com/avee_nain
 [instagram]: https://www.instagram.com/avee_nain/
 [facebook]: https://www.facebook.com/aveenain/
+[telegram]: https://t.me/aveenain
 
 <!--
 **aveenain/aveenain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
