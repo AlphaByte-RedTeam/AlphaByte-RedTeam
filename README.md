@@ -2,7 +2,7 @@
 
 <br />
 
-## No Guts, No Glory!
+## BORN TO WIN!
 
 - 🤓 I’m currently learning everything 🎆
 - 🇮🇩 I am from Indonesia.
