@@ -34,8 +34,8 @@
 [<img align="left" alt="Linux OS" width="48px" src="https://img.icons8.com/color/48/000000/linux.png"/>][instagram]
 <!--[<img align="left" alt="Apple OS" width="48px" src="https://img.icons8.com/ios-filled/48/000000/mac-os.png"/>][instagram]-->
 [<img align="left" alt="Windows 10 OS" width="48px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>][instagram]
-[<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/100/000000/git.png"/>][instagram]
-[<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>][instagram]
+<!--[<img align="left" alt="Git" width="48px" src="https://img.icons8.com/color/100/000000/git.png"/>][instagram]-->
+<!--[<img align="left" alt="GitHub" width="48px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>][instagram]-->
 [<img align="left" alt="Bash" width="48px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>][instagram]
 <!--[<img align=left alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]-->
 [<img align="left" alt="VSCode IDE" width="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>][instagram]
