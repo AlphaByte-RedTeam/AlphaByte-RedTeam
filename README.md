@@ -3,9 +3,9 @@
 </br>
 
 ## Ctrl + Alt + Del
-> Control yourself
-> Alter your thoughts
-> Delete negativity
+> Control yourself,
+> Alter your thoughts,
+> Delete negativity,
 
 - 🤓 I'm currently learning Web Dev 🎆
 - 🇮🇩 I'm from Indonesia.
