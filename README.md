@@ -10,7 +10,7 @@
 - 🤓 I'm currently learning Web Dev 🎆
 - 🇮🇩 I'm from Indonesia.
 - 👨‍💻 Check out my [Instagram][instagram] page! 
-- 📚 3rd semester CS student.
+<!-- 📚 3rd semester CS student. -->
 - 🌐 Interested in IT Security and AI
 - 👾 Fun fact: I like cooking, design, and sports! LOL 🤣
 
@@ -38,7 +38,7 @@
 
 [discord]: https://discordapp.com/users/427705070398996485/
 [twitter]: https://twitter.com/avee_nain
-[instagram]: https://www.instagram.com/avee_nain/
+[instagram]: https://www.instagram.com/avv_210/
 [facebook]: https://www.facebook.com/aveenain/
 [telegram]: https://t.me/aveenain
 
