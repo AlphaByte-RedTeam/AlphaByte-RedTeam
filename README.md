@@ -10,7 +10,7 @@
 - 🤓 I'm currently learning Web Dev 🎆
 - 🇮🇩 I'm from Indonesia.
 - 👨‍💻 Check out my [Instagram][instagram] page! 
-<!-- 📚 3rd semester CS student. -->
+- 📚 3rd semester CS student.
 - 🌐 Interested in IT Security and AI
 - 👾 Fun fact: I like cooking, design, and sports! LOL 🤣
 
