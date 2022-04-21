@@ -1,45 +1,28 @@
-### Hello World! I'm Andrew Virya Victorio - aka [avee_nain][instagram] 😎🤙
+<h1 align="center">Hi , I'm Andrew Virya Victorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
-</br>
+## My Motto: Ctrl + Alt + Del
+> Control yourself, Alter your thoughts, Delete negativity
 
-## Ctrl + Alt + Del
-> Control yourself,
-> Alter your thoughts,
-> Delete negativity,
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaByte-RedTeam&theme=algolia" alt="7oSkaaa" /></p>
 
-- 🤓 I'm currently learning Offensive Security
-- 🇮🇩  Indonesian <!-- 👨‍💻 Check out my [Instagram][instagram] page! -->
-- 📚 3rd semester CS student
-- 🌐 Interested in IT Security and AI
-- 👾 Fun fact: I like cooking, design, and sports! LOL 🤣
+## 📊 Github Stats
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaByte-RedTeam&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphaByte-RedTeam&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+<br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!--### Connect with me:
-
-[<img align="left" alt="Discord Icon" width="48px" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>][discord][<img align="left" alt="Instagram Icon" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram][<img align="left" alt="Facebook Icon" width="48px" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook][<img align="left" alt="Twitter Icon" width="48px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter][<img align="left" alt="Telegram Icon" width="48px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>][telegram]-->
-
-### Languages and Tools:
-
-[<img align="left" alt="C Programming Language" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][instagram][<img align="left" alt="C++ Programming Language" width="48px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>][instagram][<img align="left" alt="Asemmbly Language" width="48px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"/>][instagram][<img align="left" alt="VSCode IDE" width="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>][instagram]
-
-
-</br>
-</br>
-
----
-
-</br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlphaByte-RedTeam&show_icons=true&theme=cobalt)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaByte-RedTeam&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+<a href="https://github.com/AlphaByte-RedTeam"><img alt="Andrew's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AlphaByte-RedTeam&custom_title=Andrew's%20Contribution%20Graph&theme=react-dark" /></a>
+<br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aveenain.visitor-badge)
 
-[discord]: https://discordapp.com/users/427705070398996485/
-[twitter]: https://twitter.com/avee_nain
-[instagram]: https://www.instagram.com/avv_210/
-[facebook]: https://www.facebook.com/aveenain/
-[telegram]: https://t.me/aveenain
-
-<!--
-**aveenain/aveenain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+</br>
