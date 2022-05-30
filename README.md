@@ -3,8 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-## My Motto: Ctrl + Alt + Del
-> Control yourself, Alter your thoughts, Delete negativity
+## My Motto: Service to others is the rent you pay for your room in heaven 
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaByte-RedTeam&theme=algolia" alt="7oSkaaa" /></p>
