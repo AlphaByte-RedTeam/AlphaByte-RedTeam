@@ -1,11 +1,20 @@
-<h1>Hello internet<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1>Hello internet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ```
-You can call me Andrew. Currently I am a college student of Bunda Mulia University majoring in Computer Science that based on Jakarta, Indonesia. 
-I love learning new things and do something new. My domain of interest is Business, AI, Cyber Security, and Software Engineering. I like tinkering with technology since I was 11 y.o. My hope is to build my own business that helps revolutionize the world using Robots and Artificial Intelligence. If you want to reach me out, you can reach me via Email or Instagram.
+You can call me Andrew.
+Currently I'm a college student of Bunda Mulia University majoring
+in Computer Science that based on Jakarta, Indonesia. 
+I love learning new things and do something new.
+My domain of interest is Business, AI, Cyber Security, and Software Engineering.
+I like tinkering with technology since I was 11 y.o.
+My hope is to build my own business that helps revolutionize the world using Robots and Artificial Intelligence.
+If you want to reach me out, you can reach me via Email or Instagram.
 
 Email: andrew.avv03@gmail.com
 Instagram: @avv_210
+
+Best regards,
+Andrew Virya Victorio
 ```
 
 <!-- <p align="center">
