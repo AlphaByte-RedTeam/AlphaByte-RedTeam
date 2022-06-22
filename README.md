@@ -8,9 +8,10 @@ I love learning new things and do something new.
 My domain of interest is Business, AI, Cyber Security, and Software Engineering.
 I like tinkering with technology since I was 11 y.o.
 My hope is to build my own business that helps revolutionize the world using Robots and Artificial Intelligence.
-If you want to reach me out, you can reach me via Email or Instagram.
+If you want to reach me out, you can reach me via Email, LinkedIn or Instagram.
 
 Email: andrew.avv03@gmail.com
+LinkedIn: Andrew Virya Victorio
 Instagram: @avv_210
 
 Best regards,
