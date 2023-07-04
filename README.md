@@ -60,8 +60,6 @@ Andrew Virya Victorio
   <img src="https://skillicons.dev/icons?i=vscode,aws,gcp,firebase,git,github,webflow,vercel,supabase,postman,docker,kubernetes,graphql,apollo" />
 </a>
 
-<br></br>
-
 ## 🔥 Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaByte-RedTeam&theme=algolia" alt="7oSkaaa" />
 
