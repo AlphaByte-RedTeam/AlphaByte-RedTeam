@@ -1,5 +1,14 @@
 <h1>Hello internet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+## 😎 The Meaning of Andrew
+
+<p><b>A</b>mbitious</p>
+<p><b>N</b>urturing</p>
+<p><b>D</b>illigent</p>
+<p><b>R</b>eliable</p>
+<p><b>E</b>mpathetic</p>
+<p><b>W</b>ell-regarded</p>
+
 ```
 You can call me Andrew.
 I'm a Computer Science student at Bunda Mulia University based in Jakarta, Indonesia.
