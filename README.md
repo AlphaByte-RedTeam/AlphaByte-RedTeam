@@ -2,12 +2,12 @@
 
 ```
 You can call me Andrew.
-Currently I'm a Computer Science student in Bunda Mulia University base on Jakarta, Indonesia.
-I love learning new things and do something new.
-My domain of interest is Business, AI, Cyber Security, and Software Engineering.
-I like tinkering with technology since I was 11 y.o.
-My hope is to build my own business that helps revolutionize the world using Robots and Artificial Intelligence.
-If you want to reach me out, you can reach me via Email, LinkedIn or Instagram.
+I'm a Computer Science student at Bunda Mulia University based in Jakarta, Indonesia.
+I love learning new things and doing something new.
+My domain interests are Business, AI, Cyber Security, and Software Engineering.
+I have liked tinkering with technology since I was 11 y.o.
+My hope is to build my own business that helps revolutionize the world using my skills and knowledge.
+You can reach me via Email, LinkedIn, or Instagram.
 
 Email: andrew.avv03@gmail.com
 LinkedIn: Andrew Virya Victorio
@@ -44,3 +44,31 @@ Andrew Virya Victorio
 
 </br>
  -->
+
+# Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,dart,go" />
+</a>
+
+# Framework/Library
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,vue,svelte,nextjs,nuxtjs,nodejs,flutter,tensorflow,pytorch,fastapi,jest" />
+</a>
+
+# Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,aws,gcp,firebase,git,github,webflow,vercel,supabase,postman,docker,kubernetes,graphql,apollo" />
+</a>
+
+<br></br>
+
+## 🔥 Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaByte-RedTeam&theme=algolia" alt="7oSkaaa" />
+
+## 📊 Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrew's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaByte-RedTeam&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+
+<br/>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jc-wu1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)\ -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jc-wu1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
