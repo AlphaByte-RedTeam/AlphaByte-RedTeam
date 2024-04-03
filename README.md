@@ -11,7 +11,7 @@
 
 ```
 You can call me Andrew.
-I'm a Computer Science student at Bunda Mulia University based in Jakarta, Indonesia.
+I'm a graduated Computer Science student at Bunda Mulia University based in Jakarta, Indonesia.
 I love learning new things and doing something new.
 My domain interests are Business, AI, Cyber Security, and Software Engineering.
 I have liked tinkering with technology since I was 11 y.o.
