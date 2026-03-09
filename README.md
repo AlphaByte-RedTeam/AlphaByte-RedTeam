@@ -1,3 +1,5 @@
+### `GET /users/andrewvirya`
+
 ```json
 {
   "identity": {
