@@ -1,19 +1,36 @@
-<h1>Hello internet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-# Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,dart" />
-</a>
-
-# Framework/Library
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tensorflow,pytorch,fastapi,jest" />
-</a>
-
-# Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,aws,gcp,firebase,git,github,webflow,vercel,supabase,postman,docker,kubernetes,graphql,apollo" />
-</a>
-
-## 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaByte-RedTeam&theme=algolia" alt="7oSkaaa" />
+{
+  "identity": {
+    "name": "Andrew Virya Victorio",
+    "pronouns": "he/him",
+    "location": "Jakarta, Indonesia",
+    "current_company": "Orang Tua (OT) Group",
+    "current_role": "Data Engineer",
+    "website": "https://andrewvirya.me",
+    "quote": "Enjoying my best life!"
+  },
+  "tech": {
+    "core": ["Python", "TypeScript", "SQL", "Dart", "Rust"],
+    "frameworks": ["FastAPI", "Next.js", "Flutter"],
+    "data_engineering": [
+      "Kafka",
+      "Vertica",
+      "TimescaleDB",
+      "Supabase",
+      "Google Cloud"
+    ],
+    "infrastructure": [
+      "Docker",
+      "NGINX",
+      "GitHub Actions",
+      "Kubernetes",
+      "Vercel"
+    ],
+    "tools": ["Postman", "Requestly", "Figma", "TailwindCSS"]
+  },
+  "fields_of_interest": [
+    "Software Engineering",
+    "Cyber Security",
+    "Data Engineering"
+  ],
+  "hobbies": ["Traveling", "Solving Problems", "Reading"]
+}
